@@ -1,0 +1,1 @@
+import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;\nvar enc = new BCryptPasswordEncoder();\nSystem.out.println(enc.encode(" RevWorkforce123!\));\n/exit
